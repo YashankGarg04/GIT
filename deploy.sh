@@ -1,1 +1,0 @@
-near deploy multi.fdaomultixender.near target/wasm32-unknown-unknown/release/multisend_er.wasm
